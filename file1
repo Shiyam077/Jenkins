@@ -1,2 +1,4 @@
 echo "HI,HELLO AND WELCOME "
 whoami
+pwd
+ls
