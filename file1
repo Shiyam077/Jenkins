@@ -6,3 +6,4 @@ echo "Hello"
 ifconfig
 echo "activated"
 echo "CI STARTED"
+haha
